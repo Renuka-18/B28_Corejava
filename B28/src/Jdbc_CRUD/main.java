@@ -10,7 +10,7 @@ public class main {
 	public static void main(String[] args) {
 		
 		//creating the object for operations performing  class.
-		DatabaseService databaseservice=new DatabaseService();
+		Database databaseservice=new Database();
 		
 		
 		
